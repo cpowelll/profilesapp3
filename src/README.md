@@ -10,6 +10,9 @@ cd profilesapp3
 npm install
 npm run dev
 
+--create an amplify app
+npm create amplify@latest -y
+
 --deploy cloud resources into an isolated development space
 npx ampx sandbox
 
